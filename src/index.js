@@ -1,8 +1,8 @@
 let nome;
 let xp;
 
-nome = prompt("Digite o nome de seu personagem ");
-xp = prompt("Digite o nivel de xp (valor deve estar entre 0 e 10001 ");
+nome = prompt("Digite o nome de seu personagem:  ");
+xp = prompt("Digite o nivel de xp (valor deve estar entre 0 e 10001:  ");
 
 switch (xp > -1) {
     case xp <= 1000:
