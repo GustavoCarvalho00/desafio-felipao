@@ -22,15 +22,15 @@ switch (xp > -1) {
         break
 
     case (xp >= 7001 && xp <= 8000):
-        console.log("o heroi de nome " + nome + " está na liga de Platina")
+        console.log("o heroi de nome " + nome + " está na liga Platina")
         break
 
     case (xp >= 8001 && xp <= 9000):
-        console.log("o heroi de nome " + nome + " está na liga de Ascendente")
+        console.log("o heroi de nome " + nome + " está na liga Ascendente")
         break
 
     case (xp >= 9001 && xp <= 10000):
-        console.log("o heroi de nome " + nome + " está na liga de Imortal")
+        console.log("o heroi de nome " + nome + " está na liga Imortal")
         break
 
     case xp >= 10001:
