@@ -1,5 +1,4 @@
 Foi solicitado pelo professor a realição de um projeto com o seguinte objetivo:
-Para não ficar muito dentro do codigo, utilizei o prompt para dar uma escolha ao usuario.
 
 ## Objetivo
 
@@ -19,4 +18,3 @@ Se XP for maior ou igual a 10.001 = Radiante
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
-Para não ficar muito dentro do codigo, utilizei o prompt para dar uma escolha ao usuario.
