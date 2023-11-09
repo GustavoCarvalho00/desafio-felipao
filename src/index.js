@@ -1,8 +1,8 @@
 let nome;
 let xp;
 
-nome = prompt("Digite o nome de seu personagem:  ");
-xp = prompt("Digite o nivel de xp (valor deve estar entre 0 e 10001:  ");
+nome = prompt("Digite o nome de seu personagem ");
+xp = prompt("Digite o nivel de xp (valor deve estar entre 0 e 10001 ");
 
 switch (xp > -1) {
     case xp <= 1000:
@@ -33,7 +33,10 @@ switch (xp > -1) {
         console.log("o heroi de nome " + nome + " está na liga Imortal")
         break
 
-    case xp >= 10001:
+    case xp <= 10001:
         console.log("o heroi de nome " + nome + " está na liga Radiante")
         break
+
+    default:
+        console.log("Digite apenas valores no intervalo entre 0 e 10001")
 }
