@@ -1,4 +1,7 @@
 Foi solicitado pelo professor a realição de um projeto com o seguinte objetivo:
+Para não ficar muito dentro do codigo, utilizei o prompt para dar uma escolha ao usuario.
+
+## Objetivo
 
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
